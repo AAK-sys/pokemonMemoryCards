@@ -2,8 +2,7 @@
 
 ### that's right
 
-First Commit through the enviroment by Ahmed A.  
-Hello There!  
+A memory game from the odin projects using pokemons
 
 
 Hmm!
