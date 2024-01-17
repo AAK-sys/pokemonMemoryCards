@@ -1,4 +1,4 @@
-# pokemonMemeoryCards
+# pokemonMemoryCards
 
 ### that's right
 
