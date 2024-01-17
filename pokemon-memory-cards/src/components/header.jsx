@@ -3,11 +3,8 @@ import '../App.css'
 
 function Header(){
     return(<div className='header'>
-        <div>
-        <h1 className='title'>Pokemon Memeory Card</h1>
-        <p>hello</p>
-        </div>
-        
+        <h1 className='title'>Pokemon Memory Card</h1>
+        <p>Get points by clicking on an image but don't click on any more than once!</p> 
     </div>);
 }
 
