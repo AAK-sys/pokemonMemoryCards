@@ -1,7 +1,7 @@
-import pikachu from "../../../public/images/pikachu.png"
-import diglett from "../../../public/images/diglett.png"
-import squirtle from "../../../public/images/squirtle.png"
-import charizard from "../../../public/images/charizard.png"
+import pikachu from "../../public/images/pikachu.png"
+import diglett from "../../public/images/diglett.png"
+import squirtle from "../../public/images/squirtle.png"
+import charizard from "../../public/images/charizard.png"
 
 export function info(){
     const pokemonData = [
